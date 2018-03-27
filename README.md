@@ -24,7 +24,7 @@ function me(learning, thinking) {
   
   
 
-//Trying to avoid being lost and in great danger." Me.
+//"Avoid being lost and in great danger. Find your path and be safe." 
 
 
 
